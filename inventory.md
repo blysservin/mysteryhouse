@@ -1,6 +1,4 @@
 
-<div style="font-weight: bold;">
-
 ---
 ---
 ---
@@ -121,5 +119,3 @@ THANK YOU FOR PLAYING HI-RES ADVENTURE ... GOOD-BYE.
 ---
 ---
 ---
-
-</div>
