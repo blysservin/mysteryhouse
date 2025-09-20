@@ -1,6 +1,4 @@
 
-<div style="font-weight: bold;">
-
 ---
 ---
 ---
@@ -92,5 +90,3 @@ THANK YOU TO ROBERTA WILLIAMS, KEN WILLIAMS, ON-LINE SYSTEMS / SIERRA ON-LINE, T
 ---
 ---
 ---
-
-</div>
