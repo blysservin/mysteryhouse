@@ -56,7 +56,7 @@
 ---
 
 #### **[&nbsp;ALTERNATE ENDING 1&nbsp;]**
-***(START AFTER NOTE FOR "[ALTERNATE ENDING 1](/walkthrough.md#kitchen)")  
+***(START AFTER NOTE FOR <a name="alternate-ending-1">[[&nbsp;ALTERNATE ENDING 1&nbsp;]](/walkthrough.md#alternate-ending-1))</a>  
 --------------- ENTER COMMAND? <ins>LIGHT STOVE</ins>  
 THE STOVE EXPLODES. YOU ARE DEAD. WOULD YOU LIKE TO PLAY AGAIN?  
 --------------- ENTER COMMAND? <ins>YES</ins>  
