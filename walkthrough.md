@@ -193,7 +193,7 @@ THE MATCH WENT OUT.
 --------------- ENTER COMMAND? <ins>LIGHT CANDLE</ins>  
 --------------- ENTER COMMAND? <ins>LOOK ROOM</ins>  
 YOU TRIP OVER A RUG AND FALL. OH, OH, YOU STARTED A FIRE WITH YOUR CANDLE!  
-*(SEE STEPS BELOW FOR "[ALTERNATE ENDING 2](/alternateendings.md#alternate-ending-2)")*  
+*(SEE STEPS FOR <a name="walkthroughalternateending2">[[&nbsp;ALTERNATE ENDING 2&nbsp;]](/alternateendings.md#alternateendingsalternateending2)</a>)*  
 --------------- ENTER COMMAND? <ins>POUR WATER</ins>  
 THE FIRE IS OUT. THE PITCHER IS EMPTY.  
 --------------- ENTER COMMAND? <ins>LOOK HOLE</ins>  
@@ -298,7 +298,7 @@ YOU ARE AT A STAIRWAY.
 **YOU ARE IN THE ATTIC.  
 --------------- ENTER COMMAND? <ins>LOOK WINDOW</ins>  
 YOU SEE A FOREST.  
-*(SEE STEPS BELOW FOR "[ALTERNATE ENDING 3](/alternateendings.md#alternate-ending-3)")*  
+*(SEE STEPS FOR <a name="walkthroughalternateending3">[[&nbsp;ALTERNATE ENDING 3&nbsp;]](/alternateendings.md#alternateendingsalternateending3)</a>)*  
 --------------- ENTER COMMAND? <ins>TAKE HAMMER</ins>  
 --------------- ENTER COMMAND? <ins>CLIMB LADDER</ins>  
 YOU CLIMB UP BUMP YOUR HEAD ON THE CEILING AND FALL, DAZED BUT ALIVE.  
@@ -502,7 +502,7 @@ THERE IS ONE BULLET IN THE GUN.
 DAISY WON'T LET YOU.  
 --------------- ENTER COMMAND? <ins>LOOK DAISY</ins>  
 SHE IS GOING TO KILL YOU.  
-*(SEE STEPS BELOW FOR "[ALTERNATE ENDING 4](/alternateendings.md#alternate-ending-4)")*  
+*(SEE STEPS FOR <a name="walkthroughalternateending4">[[&nbsp;ALTERNATE ENDING 4&nbsp;]](/alternateendings.md#alternateendingsalternateending4)</a>)*  
 --------------- ENTER COMMAND? <ins>USE GUN</ins>  
 YOUR GUN IS EMPTY. DAISY IS NOW DEAD.  
 --------------- ENTER COMMAND? <ins>LOOK BODY</ins>  
@@ -627,7 +627,7 @@ HE DOESN'T TALK MUCH.
 THE WRITING IS WORN DOWN.  
 --------------- ENTER COMMAND? <ins>TAKE TOMBSTONE</ins>  
 IT IS TOO HEAVY.  
-*(SEE STEPS BELOW FOR "[ALTERNATE ENDING 5](/alternateendings.md#alternate-ending-5)" OR "[ALTERNATE ENDING 6](/alternateendings.md#alternate-ending-6)")*  
+*(SEE STEPS FOR <a name="walkthroughalternateending5">[[&nbsp;ALTERNATE ENDING 5&nbsp;]](/alternateendings.md#alternateendingsalternateending5)</a>) OR *(SEE STEPS FOR <a name="walkthroughalternateending6">[[&nbsp;ALTERNATE ENDING 6&nbsp;]](/alternateendings.md#alternateendingsalternateending6)</a>)*  
 --------------- ENTER COMMAND? <ins>EXIT GATE</ins>**  
 
 #### 
