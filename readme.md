@@ -10,7 +10,9 @@
 ---
 ---
   
-#### **[&nbsp;MYSTERY HOUSE&nbsp;]** 
+#### 
+
+**[&nbsp;MYSTERY HOUSE&nbsp;]** 
 
 ####
 
@@ -25,7 +27,9 @@
 ---
 ---
 
-#### **[[&nbsp;README&nbsp;]](#-readme-) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;INSTRUCTIONS&nbsp;]](/instructions.md)  [[&nbsp;WALKTHROUGH&nbsp;]](/walkthrough.md) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](/alternateendings.md) [[&nbsp;INVENTORY&nbsp;]](/inventory.md)**
+#### 
+
+**[[&nbsp;README&nbsp;]](#-readme-) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;INSTRUCTIONS&nbsp;]](/instructions.md)  [[&nbsp;WALKTHROUGH&nbsp;]](/walkthrough.md) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](/alternateendings.md) [[&nbsp;INVENTORY&nbsp;]](/inventory.md)**
 
 ####
 
@@ -40,7 +44,9 @@
 ---
 ---
 
-#### **[&nbsp;README&nbsp;]**
+#### 
+
+**<a name="readme">[&nbsp;README&nbsp;]</a>**
 
 ####
 
@@ -76,7 +82,9 @@
 ---
 ---
 
-#### **[[&nbsp;PREVIOUS&nbsp;]](/inventory.md) [[&nbsp;NEXT&nbsp;]](/introduction.md)** 
+#### 
+
+**[[&nbsp;PREVIOUS&nbsp;]](/inventory.md) [[&nbsp;NEXT&nbsp;]](/introduction.md)** 
 
 ####
 
