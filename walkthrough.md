@@ -96,7 +96,7 @@ IT IS NOT OPEN.
 --------------- ENTER COMMAND? <ins>LOOK CABINET</ins>  
 --------------- ENTER COMMAND? <ins>TAKE MATCHES</ins>  
 --------------- ENTER COMMAND? <ins>LOOK ROOM</ins>  
-*(SEE STEPS BELOW FOR "[ALTERNATE ENDING 1](/alternateendings.md#alternate-ending-1)")*  
+*(SEE STEPS BELOW FOR "[ALTERNATE ENDING 1](/alternateendings.md#-alternate-ending-1-)")*  
 --------------- ENTER COMMAND? <ins>LOOK REFRIGERATOR</ins>  
 THE DOOR IS CLOSED.  
 --------------- ENTER COMMAND? <ins>OPEN REFRIGERATOR</ins>  
@@ -167,7 +167,7 @@ THE MATCH WENT OUT.
 --------------- ENTER COMMAND? <ins>LIGHT CANDLE</ins>  
 --------------- ENTER COMMAND? <ins>LOOK ROOM</ins>  
 YOU TRIP OVER A RUG AND FALL. OH, OH, YOU STARTED A FIRE WITH YOUR CANDLE!  
-*(SEE STEPS BELOW FOR "[ALTERNATE ENDING 2](/alternateendings.md#alternate-ending-2)")*  
+*(SEE STEPS BELOW FOR "[ALTERNATE ENDING 2](/alternateendings.md#-alternate-ending-2-)")*  
 --------------- ENTER COMMAND? <ins>POUR WATER</ins>  
 THE FIRE IS OUT. THE PITCHER IS EMPTY.  
 --------------- ENTER COMMAND? <ins>LOOK HOLE</ins>  
@@ -250,7 +250,7 @@ YOU ARE AT A STAIRWAY.
 YOU ARE IN THE ATTIC.  
 --------------- ENTER COMMAND? <ins>LOOK WINDOW</ins>  
 YOU SEE A FOREST.  
-*(SEE STEPS BELOW FOR "[ALTERNATE ENDING 3](/alternateendings.md#alternate-ending-3)")*  
+*(SEE STEPS BELOW FOR "[ALTERNATE ENDING 3](/alternateendings.md#-alternate-ending-3-)")*  
 --------------- ENTER COMMAND? <ins>TAKE HAMMER</ins>  
 --------------- ENTER COMMAND? <ins>CLIMB LADDER</ins>  
 YOU CLIMB UP BUMP YOUR HEAD ON THE CEILING AND FALL, DAZED BUT ALIVE.  
@@ -410,7 +410,7 @@ YOU ARE IN THE TOWER.
 DAISY WON'T LET YOU.  
 --------------- ENTER COMMAND? <ins>LOOK DAISY</ins>  
 SHE IS GOING TO KILL YOU.  
-*(SEE STEPS BELOW FOR "[ALTERNATE ENDING 4](/alternateendings.md#alternate-ending-4)")*  
+*(SEE STEPS BELOW FOR "[ALTERNATE ENDING 4](/alternateendings.md#-alternate-ending-4-)")*  
 --------------- ENTER COMMAND? <ins>USE GUN</ins>  
 YOUR GUN IS EMPTY. DAISY IS NOW DEAD.  
 --------------- ENTER COMMAND? <ins>LOOK BODY</ins>  
@@ -505,7 +505,7 @@ HE DOESN'T TALK MUCH.
 THE WRITING IS WORN DOWN.  
 --------------- ENTER COMMAND? <ins>TAKE TOMBSTONE</ins>  
 IT IS TOO HEAVY.  
-*(SEE STEPS BELOW FOR "[ALTERNATE ENDING 5](/alternateendings.md#alternate-ending-5)" OR "[ALTERNATE ENDING 6](/alternateendings.md#alternate-ending-6)")*  
+*(SEE STEPS BELOW FOR "[ALTERNATE ENDING 5](/alternateendings.md#-alternate-ending-5-)" OR "[ALTERNATE ENDING 6](/alternateendings.md#-alternate-ending-6-)")*  
 --------------- ENTER COMMAND? <ins>EXIT GATE</ins>  
 
 #### **[ BACKYARD ]**
