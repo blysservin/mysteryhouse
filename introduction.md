@@ -42,7 +42,7 @@
 ---
 ---
 
-#### **[[ INTRODUCTION ]](#)**
+#### **[ INTRODUCTION ]**
 
 ####
 
