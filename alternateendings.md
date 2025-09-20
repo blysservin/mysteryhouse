@@ -25,7 +25,7 @@
 ---
 ---
 
-#### **[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;INSTRUCTIONS&nbsp;]](/instructions.md)  [[&nbsp;WALKTHROUGH&nbsp;]](/walkthrough.md) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](#alternate-endings) [[&nbsp;INVENTORY&nbsp;]](/inventory.md)**
+#### **[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;INSTRUCTIONS&nbsp;]](/instructions.md)  [[&nbsp;WALKTHROUGH&nbsp;]](/walkthrough.md) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](#alternateendings) [[&nbsp;INVENTORY&nbsp;]](/inventory.md)**
 
 ####
 
@@ -40,7 +40,7 @@
 ---
 ---
 
-#### **[&nbsp;ALTERNATE ENDINGS&nbsp;]**
+#### **<a name="alternateendings">[&nbsp;ALTERNATE ENDINGS&nbsp;]</a>**
 
 ####
 
@@ -56,7 +56,7 @@
 ---
 
 #### **[&nbsp;ALTERNATE ENDING 1&nbsp;]**
-***(START AFTER NOTE FOR <a name="alternate-ending-1">[[&nbsp;ALTERNATE ENDING 1&nbsp;]](/walkthrough.md#alternate-ending-1))</a>  
+***(START AFTER NOTE FOR <a name="alternateendingsalternateending1">[[&nbsp;ALTERNATE ENDING 1&nbsp;]](/walkthrough.md#walkthroughalternateending-1))</a>  
 --------------- ENTER COMMAND? <ins>LIGHT STOVE</ins>  
 THE STOVE EXPLODES. YOU ARE DEAD. WOULD YOU LIKE TO PLAY AGAIN?  
 --------------- ENTER COMMAND? <ins>YES</ins>  
