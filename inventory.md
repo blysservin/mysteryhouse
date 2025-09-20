@@ -27,7 +27,7 @@
 ---
 ---
 
-#### **[[ README ]](/readme.md) [[ INTRODUCTION ]](/introduction.md) [[ INSTRUCTIONS ]](/instructions.md)  [[ WALKTHROUGH ]](/walkthrough.md) [[ ALTERNATE ENDINGS ]](/alternateendings.md) [[ INVENTORY ]](#inventory)**
+#### **[[ README ]](/readme.md) [[ INTRODUCTION ]](/introduction.md) [[ INSTRUCTIONS ]](/instructions.md)  [[ WALKTHROUGH ]](/walkthrough.md) [[ ALTERNATE ENDINGS ]](/alternateendings.md) [[ INVENTORY ]](#-inventory-)**
 
 ####
 
@@ -42,7 +42,7 @@
 ---
 ---
 
-#### **[[ INVENTORY ]](#)**
+#### **[ INVENTORY ]**
 
 ####
 
