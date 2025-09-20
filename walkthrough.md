@@ -94,7 +94,7 @@ IT IS NOT OPEN.
 --------------- ENTER COMMAND? <ins>LOOK CABINET</ins>  
 --------------- ENTER COMMAND? <ins>TAKE MATCHES</ins>  
 --------------- ENTER COMMAND? <ins>LOOK ROOM</ins>  
-*(SEE STEPS BELOW FOR "<a name="test">[ALTERNATE ENDING 1](/alternateendings.md#alternate-ending-1)</a>")*  
+*(SEE STEPS BELOW FOR "[ALTERNATE ENDING 1](/alternateendings.md#alternate-ending-1)")*  
 --------------- ENTER COMMAND? <ins>LOOK REFRIGERATOR</ins>  
 THE DOOR IS CLOSED.  
 --------------- ENTER COMMAND? <ins>OPEN REFRIGERATOR</ins>  
