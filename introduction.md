@@ -94,9 +94,9 @@
 ---
 ---
 
-#### **
+#### 
 
-[[&nbsp;PREVIOUS&nbsp;]](/readme.md) [[&nbsp;NEXT&nbsp;]](/instructions.md)** 
+**[[&nbsp;PREVIOUS&nbsp;]](/readme.md) [[&nbsp;NEXT&nbsp;]](/instructions.md)** 
 
 ####
 
