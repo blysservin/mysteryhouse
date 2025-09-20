@@ -84,7 +84,9 @@
 >| TOM | SAM | SALLY | DR. GREEN | JOE | BILL | DAISY |
 >| --- | --- | --- | --- | --- | --- | --- |
 >| PLUMBER | MECHANIC | SEAMSTRESS | SURGEON | GRAVEDIGGER | BUTCHER | COOK |
+>|  |  |  |  |  |  |  |
 >| BLOND | BRUNETTE | REDHEAD | BRUNETTE | BRUNETTE | BLOND | BLOND |
+>|  |  |  |  |  |  |  |
 >
 >####
 >
