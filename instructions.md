@@ -85,9 +85,6 @@
 >
 >**AT THE START OF THE GAME THERE WILL BE SEVEN OTHER PEOPLE IN THE HOUSE WITH YOU. THEIR NAMES, OCCUPATIONS, AND HAIR COLORS ARE AS FOLLOWS:**  
 >
->| **[&nbsp;TOM&nbsp;]<br>[&nbsp;PLUMBER&nbsp;]<br>[&nbsp;BLOND&nbsp;]**| **[&nbsp;SAM&nbsp;]<br>[&nbsp;MECHANIC&nbsp;]<br>[&nbsp;BRUNETTE&nbsp;]** | **[&nbsp;SALLY&nbsp;]<br>[&nbsp;SEAMSTRESS&nbsp;]<br>[&nbsp;REDHEAD&nbsp;]** | **[&nbsp;DR. GREEN&nbsp;]<br>[&nbsp;SURGEON&nbsp;]<br>[&nbsp;BRUNETTE&nbsp;]** | **[&nbsp;JOE&nbsp;]<br>[&nbsp;GRAVEDIGGER&nbsp;]<br>[&nbsp;BRUNETTE&nbsp;]** | **[&nbsp;BILL&nbsp;]<br>[&nbsp;BUTCHER&nbsp;]<br>[&nbsp;BLOND&nbsp;]** | **[&nbsp;DAISY&nbsp;]<br>[&nbsp;COOK&nbsp;]<br>[&nbsp;BLOND&nbsp;]** |
->| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
->
 >**TOM  
 >PLUMBER  
 >BLOND**  
@@ -150,10 +147,15 @@
 ---
 ---
 
-<!-- >| **TOM** | **SAM** | **SALLY** | **DR. GREEN** | **JOE** | **BILL** | **DAISY** |
+<!--
+>| **TOM** | **SAM** | **SALLY** | **DR. GREEN** | **JOE** | **BILL** | **DAISY** |
 >| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 >| **PLUMBER** | **MECHANIC** | **SEAMSTRESS** | **SURGEON** | **GRAVEDIGGER** | **BUTCHER** | **COOK** |
 >|  |  |  |  |  |  |  |
 >| **BLOND** | **BRUNETTE** | **REDHEAD** | **BRUNETTE** | **BRUNETTE** | **BLOND** | **BLOND** |
 >|  |  |  |  |  |  |  |
->-->
+>
+>| **[&nbsp;TOM&nbsp;]<br>[&nbsp;PLUMBER&nbsp;]<br>[&nbsp;BLOND&nbsp;]**| **[&nbsp;SAM&nbsp;]<br>[&nbsp;MECHANIC&nbsp;]<br>[&nbsp;BRUNETTE&nbsp;]** | **[&nbsp;SALLY&nbsp;]<br>[&nbsp;SEAMSTRESS&nbsp;]<br>[&nbsp;REDHEAD&nbsp;]** | **[&nbsp;DR. GREEN&nbsp;]<br>[&nbsp;SURGEON&nbsp;]<br>[&nbsp;BRUNETTE&nbsp;]** | **[&nbsp;JOE&nbsp;]<br>[&nbsp;GRAVEDIGGER&nbsp;]<br>[&nbsp;BRUNETTE&nbsp;]** | **[&nbsp;BILL&nbsp;]<br>[&nbsp;BUTCHER&nbsp;]<br>[&nbsp;BLOND&nbsp;]** | **[&nbsp;DAISY&nbsp;]<br>[&nbsp;COOK&nbsp;]<br>[&nbsp;BLOND&nbsp;]** |
+>| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+>
+-->
