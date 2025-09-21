@@ -10,7 +10,7 @@
 ---
 ---
   
-#### 
+####
 
 ****[&nbsp;MYSTERY HOUSE&nbsp;]****
 
@@ -27,7 +27,7 @@
 ---
 ---
 
-#### 
+####
 
 ****[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;INSTRUCTIONS&nbsp;]](/instructions.md)  [[&nbsp;WALKTHROUGH&nbsp;]](/walkthrough.md) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](#alternateendings) [[&nbsp;INVENTORY&nbsp;]](/inventory.md)****
 
@@ -44,7 +44,7 @@
 ---
 ---
 
-#### 
+####
 
 ****<a name="alternateendings">[&nbsp;ALTERNATE ENDINGS&nbsp;]</a>****  
 
@@ -61,7 +61,7 @@
 ---
 ---
 
-#### 
+####
 
 ****[&nbsp;ALTERNATE ENDING 1&nbsp;]****  
 ***(START AFTER NOTE FOR <a name="alternateendingsalternateending1">[[&nbsp;ALTERNATE ENDING 1&nbsp;]](/walkthrough.md#walkthroughalternateending1))</a>  
@@ -85,7 +85,7 @@ THANK YOU FOR PLAYING HI-RES ADVENTURE ... GOOD-BYE.***
 ---
 ---
 
-#### 
+####
 
 ****[&nbsp;ALTERNATE ENDING 2&nbsp;]****  
 ***(START AFTER NOTE FOR <a name="alternateendingsalternateending2">[[&nbsp;ALTERNATE ENDING 2&nbsp;]](/walkthrough.md#walkthroughalternateending2))</a>  
@@ -109,7 +109,7 @@ THANK YOU FOR PLAYING HI-RES ADVENTURE ... GOOD-BYE.***
 ---
 ---
 
-#### 
+####
 
 ****[&nbsp;ALTERNATE ENDING 3&nbsp;]****  
 ***(START AFTER NOTE FOR <a name="alternateendingsalternateending3">[[&nbsp;ALTERNATE ENDING 3&nbsp;]](/walkthrough.md#walkthroughalternateending3))</a>  
@@ -133,7 +133,7 @@ THANK YOU FOR PLAYING HI-RES ADVENTURE ... GOOD-BYE.***
 ---
 ---
 
-#### 
+####
 
 ****[&nbsp;ALTERNATE ENDING 4&nbsp;]****  
 ***(START AFTER NOTE FOR <a name="alternateendingsalternateending4">[[&nbsp;ALTERNATE ENDING 4&nbsp;]](/walkthrough.md#walkthroughalternateending4))</a>  
@@ -157,7 +157,7 @@ THANK YOU FOR PLAYING HI-RES ADVENTURE ... GOOD-BYE.***
 ---
 ---
 
-#### 
+####
 
 ****[&nbsp;ALTERNATE ENDING 5&nbsp;]****  
 ***(START AFTER NOTE FOR <a name="alternateendingsalternateending5">[[&nbsp;ALTERNATE ENDING 5&nbsp;]](/walkthrough.md#walkthroughalternateending5))</a>  
@@ -182,7 +182,7 @@ THANK YOU FOR PLAYING HI-RES ADVENTURE ... GOOD-BYE.***
 ---
 ---
 
-#### 
+####
 
 ****[&nbsp;ALTERNATE ENDING 6&nbsp;]****  
 ***(START AFTER NOTE FOR <a name="alternateendingsalternateending6">[[&nbsp;ALTERNATE ENDING 6&nbsp;]](/walkthrough.md#walkthroughalternateending6))</a>  
@@ -212,7 +212,7 @@ I FEEL MUCH MORE RESTED NOW.
 ---
 ---
 
-#### 
+####
 
 ****[[&nbsp;PREVIOUS&nbsp;]](/walkthrough.md) [[&nbsp;NEXT&nbsp;]](/inventory.md)****
 
