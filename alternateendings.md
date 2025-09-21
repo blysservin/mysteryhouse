@@ -46,7 +46,7 @@
 
 ####
 
-****<a name="alternateendings">[&nbsp;ALTERNATE ENDINGS&nbsp;]</a>****  
+****<a name="alternateendings">[&nbsp;ALTERNATE ENDINGS&nbsp;]</a>****
 
 ####
 
