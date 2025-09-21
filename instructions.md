@@ -115,7 +115,7 @@
 >
 >####
 >
->**PRESS "RETURN" TO BEGIN PLAY**
+>**PRESS "RETURN" TO BEGIN PLAY**  
 
 ####
 
@@ -146,16 +146,3 @@
 ---
 ---
 ---
-
-<!--
->| **TOM** | **SAM** | **SALLY** | **DR. GREEN** | **JOE** | **BILL** | **DAISY** |
->| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
->| **PLUMBER** | **MECHANIC** | **SEAMSTRESS** | **SURGEON** | **GRAVEDIGGER** | **BUTCHER** | **COOK** |
->|  |  |  |  |  |  |  |
->| **BLOND** | **BRUNETTE** | **REDHEAD** | **BRUNETTE** | **BRUNETTE** | **BLOND** | **BLOND** |
->|  |  |  |  |  |  |  |
->
->| **TOM<br>PLUMBER<br>BLOND** | **SAM<br>MECHANIC<br>BRUNETTE** | **SALLY<br>SEAMSTRESS<br>REDHEAD** | **DR. GREEN<br>SURGEON<br>BRUNETTE** | **JOE<br>GRAVEDIGGER<br>BRUNETTE** | **BILL<br>BUTCHER<br>BLOND** | **DAISY<br>COOK<br>BLOND** |
->| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
->
--->
