@@ -29,7 +29,7 @@
 
 ####
 
-****[[&nbsp;README&nbsp;]](/readme.md#readme) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md#introduction) [[&nbsp;INSTRUCTIONS&nbsp;]](/instructions.md#instructions)  [[&nbsp;WALKTHROUGH&nbsp;]](/walkthrough.md#walkthrough) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](#alternateendings) [[&nbsp;INVENTORY&nbsp;]](/inventory.md#inventory)****
+****[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;INSTRUCTIONS&nbsp;]](/instructions.md)  [[&nbsp;WALKTHROUGH&nbsp;]](/walkthrough.md) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](#alternateendings) [[&nbsp;INVENTORY&nbsp;]](/inventory.md)****
 
 ####
 
