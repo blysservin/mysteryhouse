@@ -12,7 +12,7 @@
   
 ####
 
-****[&nbsp;MYSTERY HOUSE&nbsp;]**** 
+****[&nbsp;MYSTERY HOUSE&nbsp;]****
 
 ####
 
