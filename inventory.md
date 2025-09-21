@@ -10,9 +10,9 @@
 ---
 ---
   
-#### 
+####
 
-**[&nbsp;MYSTERY HOUSE&nbsp;]** 
+****[&nbsp;MYSTERY HOUSE&nbsp;]****
 
 ####
 
@@ -27,9 +27,9 @@
 ---
 ---
 
-#### 
+####
 
-**[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;INSTRUCTIONS&nbsp;]](/instructions.md)  [[&nbsp;WALKTHROUGH&nbsp;]](/walkthrough.md) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](/alternateendings.md) [[&nbsp;INVENTORY&nbsp;]](#inventory)**
+****[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;INSTRUCTIONS&nbsp;]](/instructions.md)  [[&nbsp;WALKTHROUGH&nbsp;]](/walkthrough.md) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](/alternateendings.md) [[&nbsp;INVENTORY&nbsp;]](#inventory)****
 
 ####
 
@@ -44,9 +44,9 @@
 ---
 ---
 
-#### 
+####
 
-**<a name="inventory">[&nbsp;INVENTORY&nbsp;]</a>**
+****<a name="inventory">[&nbsp;INVENTORY&nbsp;]</a>****
 
 ####
 
@@ -112,9 +112,9 @@ A DAGGER**
 ---
 ---
 
-#### 
+####
 
-**[[&nbsp;PREVIOUS&nbsp;]](/alternateendings.md) [[&nbsp;NEXT&nbsp;]](/readme.md)** 
+****[[&nbsp;PREVIOUS&nbsp;]](/alternateendings.md) [[&nbsp;NEXT&nbsp;]](/readme.md)****
 
 ####
 
