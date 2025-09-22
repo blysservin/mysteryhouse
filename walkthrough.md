@@ -627,7 +627,7 @@ HE DOESN'T TALK MUCH.
 THE WRITING IS WORN DOWN.  
 --------------- ENTER COMMAND? <ins>TAKE TOMBSTONE</ins>  
 IT IS TOO HEAVY.  
-*(&nbsp;SEE STEPS FOR <a name="walkthroughalternateending5">[[&nbsp;ALTERNATE ENDING 5&nbsp;]](/alternateendings.md#alternateendingsalternateending5)</a>) OR (SEE STEPS FOR <a name="walkthroughalternateending6">[[&nbsp;ALTERNATE ENDING 6&nbsp;]](/alternateendings.md#alternateendingsalternateending6)</a>&nbsp;)*  
+*(&nbsp;SEE STEPS FOR <a name="walkthroughalternateending5">[[&nbsp;ALTERNATE ENDING 5&nbsp;]](/alternateendings.md#alternateendingsalternateending5)</a>&nbsp;) OR (SEE STEPS FOR <a name="walkthroughalternateending6">[[&nbsp;ALTERNATE ENDING 6&nbsp;]](/alternateendings.md#alternateendingsalternateending6)</a>&nbsp;)*  
 --------------- ENTER COMMAND? <ins>EXIT GATE</ins>**  
 
 ####
