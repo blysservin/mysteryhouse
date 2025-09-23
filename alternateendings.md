@@ -64,10 +64,10 @@
 ####
 
 ****[&nbsp;ALTERNATE ENDING 1&nbsp;]****  
-***START AFTER NOTE FOR <a name="alternateendingsalternateending1">[[&nbsp;ALTERNATE ENDING 1&nbsp;]](/walkthrough.md#walkthroughalternateending1)</a>***  
+***(&nbsp;START AFTER NOTE FOR <a name="alternateendingsalternateending1">[[&nbsp;ALTERNATE ENDING 1&nbsp;]](/walkthrough.md#walkthroughalternateending1)&nbsp;)</a>  
 --------------- ENTER COMMAND? <ins>LIGHT STOVE</ins>  
 THE STOVE EXPLODES. YOU ARE DEAD. WOULD YOU LIKE TO PLAY AGAIN?  
-***--------------- ENTER COMMAND? <ins>YES</ins>  
+--------------- ENTER COMMAND? <ins>YES</ins>  
 (&nbsp;GAME RESTARTS AT BEGINNING&nbsp;)  
 --------------- ENTER COMMAND? <ins>NO</ins>  
 THANK YOU FOR PLAYING HI-RES ADVENTURE ... GOOD-BYE.***  
