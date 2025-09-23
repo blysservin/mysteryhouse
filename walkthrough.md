@@ -108,7 +108,7 @@ IT IS NOT OPEN.
 --------------- ENTER COMMAND? <ins>LOOK CABINET</ins>  
 --------------- ENTER COMMAND? <ins>TAKE MATCHES</ins>  
 --------------- ENTER COMMAND? <ins>LOOK ROOM</ins>  
-*(&nbsp;SEE STEPS FOR <a name="walkthroughalternateending1">[[&nbsp;ALTERNATE ENDING 1&nbsp;]](/alternateendings.md#alternateendingsalternateending1)</a>&nbsp;)*  
+*(SEE STEPS FOR <a name="walkthroughalternateending1">[[&nbsp;ALTERNATE ENDING 1&nbsp;]](/alternateendings.md#alternateendingsalternateending1)</a>)*  
 --------------- ENTER COMMAND? <ins>LOOK REFRIGERATOR</ins>  
 THE DOOR IS CLOSED.  
 --------------- ENTER COMMAND? <ins>OPEN REFRIGERATOR</ins>  
@@ -193,7 +193,7 @@ THE MATCH WENT OUT.
 --------------- ENTER COMMAND? <ins>LIGHT CANDLE</ins>  
 --------------- ENTER COMMAND? <ins>LOOK ROOM</ins>  
 YOU TRIP OVER A RUG AND FALL. OH, OH, YOU STARTED A FIRE WITH YOUR CANDLE!  
-*(&nbsp;SEE STEPS FOR <a name="walkthroughalternateending2">[[&nbsp;ALTERNATE ENDING 2&nbsp;]](/alternateendings.md#alternateendingsalternateending2)</a>&nbsp;)*  
+*(SEE STEPS FOR <a name="walkthroughalternateending2">[[&nbsp;ALTERNATE ENDING 2&nbsp;]](/alternateendings.md#alternateendingsalternateending2)</a>)*  
 --------------- ENTER COMMAND? <ins>POUR WATER</ins>  
 THE FIRE IS OUT. THE PITCHER IS EMPTY.  
 --------------- ENTER COMMAND? <ins>LOOK HOLE</ins>  
@@ -298,7 +298,7 @@ YOU ARE AT A STAIRWAY.
 **YOU ARE IN THE ATTIC.  
 --------------- ENTER COMMAND? <ins>LOOK WINDOW</ins>  
 YOU SEE A FOREST.  
-*(&nbsp;SEE STEPS FOR <a name="walkthroughalternateending3">[[&nbsp;ALTERNATE ENDING 3&nbsp;]](/alternateendings.md#alternateendingsalternateending3)</a>&nbsp;)*  
+*(SEE STEPS FOR <a name="walkthroughalternateending3">[[&nbsp;ALTERNATE ENDING 3&nbsp;]](/alternateendings.md#alternateendingsalternateending3)</a>)*  
 --------------- ENTER COMMAND? <ins>TAKE HAMMER</ins>  
 --------------- ENTER COMMAND? <ins>CLIMB LADDER</ins>  
 YOU CLIMB UP BUMP YOUR HEAD ON THE CEILING AND FALL, DAZED BUT ALIVE.  
@@ -502,7 +502,7 @@ THERE IS ONE BULLET IN THE GUN.
 DAISY WON'T LET YOU.  
 --------------- ENTER COMMAND? <ins>LOOK DAISY</ins>  
 SHE IS GOING TO KILL YOU.  
-*(&nbsp;SEE STEPS FOR <a name="walkthroughalternateending4">[[&nbsp;ALTERNATE ENDING 4&nbsp;]](/alternateendings.md#alternateendingsalternateending4)</a>&nbsp;)*  
+*(SEE STEPS FOR <a name="walkthroughalternateending4">[[&nbsp;ALTERNATE ENDING 4&nbsp;]](/alternateendings.md#alternateendingsalternateending4)</a>)*  
 --------------- ENTER COMMAND? <ins>USE GUN</ins>  
 YOUR GUN IS EMPTY. DAISY IS NOW DEAD.  
 --------------- ENTER COMMAND? <ins>LOOK BODY</ins>  
@@ -627,7 +627,7 @@ HE DOESN'T TALK MUCH.
 THE WRITING IS WORN DOWN.  
 --------------- ENTER COMMAND? <ins>TAKE TOMBSTONE</ins>  
 IT IS TOO HEAVY.  
-*(&nbsp;SEE STEPS FOR <a name="walkthroughalternateending5">[[&nbsp;ALTERNATE ENDING 5&nbsp;]](/alternateendings.md#alternateendingsalternateending5)</a>&nbsp;) OR (SEE STEPS FOR <a name="walkthroughalternateending6">[[&nbsp;ALTERNATE ENDING 6&nbsp;]](/alternateendings.md#alternateendingsalternateending6)</a>&nbsp;)*  
+*(SEE STEPS FOR <a name="walkthroughalternateending5">[[&nbsp;ALTERNATE ENDING 5&nbsp;]](/alternateendings.md#alternateendingsalternateending5)</a>) OR (SEE STEPS FOR <a name="walkthroughalternateending6">[[&nbsp;ALTERNATE ENDING 6&nbsp;]](/alternateendings.md#alternateendingsalternateending6)</a>)*  
 --------------- ENTER COMMAND? <ins>EXIT GATE</ins>**  
 
 ####
@@ -659,7 +659,7 @@ WHAT DIRECTION?
 --------------- ENTER COMMAND? <ins>WALK STEPS</ins>  
 CONGRATULATIONS YOU HAVE BEATEN ADVENTURE AND ARE DECLARED A GURU WIZARD. WOULD YOU LIKE TO PLAY AGAIN?  
 *--------------- ENTER COMMAND? <ins>YES*</ins>  
-*(&nbsp;GAME RESTARTS AT BEGINNING&nbsp;)*  
+*(GAME RESTARTS AT BEGINNING)*  
 --------------- ENTER COMMAND? <ins>NO</ins>  
 THANK YOU FOR PLAYING HI-RES ADVENTURE ... GOOD-BYE.**  
 
