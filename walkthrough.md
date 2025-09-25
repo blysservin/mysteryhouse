@@ -270,8 +270,8 @@ THERE IS A DOORWAY HERE.
 
 ####
 
-**[&nbsp;BOYS' BEDROOM&nbsp;]**  
-**YOU ARE IN A BOYS' BEDROOM.  
+**[&nbsp;BOY'S BEDROOM&nbsp;]**  
+**YOU ARE IN A BOY'S BEDROOM.  
 --------------- ENTER COMMAND? <ins>TAKE NOTE</ins>  
 --------------- ENTER COMMAND? <ins>READ NOTE</ins>**  
 >
