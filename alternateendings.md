@@ -114,7 +114,7 @@ THANK YOU FOR PLAYING HI-RES ADVENTURE ... GOOD-BYE.***
 **[&nbsp;ALTERNATE ENDING 3&nbsp;]**  
 ***(START AFTER NOTE FOR <a name="alternateendingsalternateending3">[[&nbsp;ALTERNATE ENDING 3&nbsp;]](/walkthrough.md#walkthroughalternateending3))</a>  
 --------------- ENTER COMMAND? <ins>EXIT WINDOW</ins>  
-YOU FALL TO EARTH. LUCKILY YOU HAVE ONLY MINOR INJURIES. UNFORTUNATELY THE AMBULANCE DRIVER SMASHED INTO A VOLKSWAGEN. NO SURVIVORS. YOU ARE DEAD. WOULD YOU LIKE TO PLAY AGAIN?  
+YOU FALL TO EARTH. LUCKILY, YOU HAVE ONLY MINOR INJURIES. UNFORTUNATELY, THE AMBULANCE DRIVER SMASHED INTO A VOLKSWAGEN. NO SURVIVORS. YOU ARE DEAD. WOULD YOU LIKE TO PLAY AGAIN?  
 --------------- ENTER COMMAND? <ins>YES</ins>  
 (GAME RESTARTS AT BEGINNING)  
 --------------- ENTER COMMAND? <ins>NO</ins>  
@@ -194,7 +194,7 @@ IT IS JOE, THE GRAVEDIGGER.
 IT IS TOO HEAVY.  
 --------------- ENTER COMMAND? <ins>ENTER GRAVE</ins>  
 YOU FALL IN ONE AND CLIMB OUT AGAIN.  
---------------- ENTER COMMAND? <ins>SLEEP GRAVE</ins>
+--------------- ENTER COMMAND? <ins>SLEEP GRAVE</ins>  
 I FEEL MUCH MORE RESTED NOW.  
 --------------- ENTER COMMAND? <ins>TAKE SHOVEL</ins>  
 (RESUME AFTER NOTE FOR <a name="alternateendingsalternateending6">[[&nbsp;ALTERNATE ENDING 6&nbsp;]](/walkthrough.md#walkthroughalternateending6))</a>***  
