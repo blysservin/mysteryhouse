@@ -92,9 +92,9 @@ THERE IS A FOREST.
 THE PEOPLE WERE EXPLAINED AT THE BEGINNING OF THE GAME.  
 --------------- ENTER COMMAND? <ins>TAKE NOTE</ins>  
 --------------- ENTER COMMAND? <ins>READ NOTE</ins>**  
->
+
 >**VALUABLE JEWELS ARE HIDDEN IN THIS HOUSE. FINDERS-KEEPERS.**  
->
+
 **--------------- ENTER COMMAND? <ins>DROP NOTE</ins>  
 --------------- ENTER COMMAND? <ins>WEST</ins>**  
 
@@ -152,9 +152,9 @@ YOUR PITCHER IS FULL.
 THERE ARE NOT MANY BOOKS LEFT.  
 --------------- ENTER COMMAND? <ins>TAKE NOTE</ins>  
 --------------- ENTER COMMAND? <ins>READ NOTE</ins>**  
->
+
 >**7 - 6 = 1 THEN I AM DONE!**  
->
+
 **--------------- ENTER COMMAND? <ins>DROP NOTE</ins>  
 --------------- ENTER COMMAND? <ins>OPEN DOOR</ins>  
 --------------- ENTER COMMAND? <ins>EAST</ins>**  
@@ -274,9 +274,9 @@ THERE IS A DOORWAY HERE.
 **YOU ARE IN A BOY'S BEDROOM.  
 --------------- ENTER COMMAND? <ins>TAKE NOTE</ins>  
 --------------- ENTER COMMAND? <ins>READ NOTE</ins>**  
->
+
 >**YOU WILL NEVER FIND IT! IT'S ALL MINE!!**  
->
+
 **--------------- ENTER COMMAND? <ins>DROP NOTE</ins>  
 --------------- ENTER COMMAND? <ins>EXIT DOORWAY</ins>**  
 
@@ -511,9 +511,9 @@ YOUR GUN IS EMPTY. DAISY IS NOW DEAD.
 SHE IS DEAD.  
 --------------- ENTER COMMAND? <ins>TAKE NOTE</ins>  
 --------------- ENTER COMMAND? <ins>READ NOTE</ins>**  
->
+
 >**IT'S IN THE BASEMENT!**  
->
+
 **--------------- ENTER COMMAND? <ins>DROP NOTE</ins>  
 --------------- ENTER COMMAND? <ins>EXIT TRAPDOOR</ins>**  
 
