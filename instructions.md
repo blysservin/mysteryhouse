@@ -113,8 +113,6 @@
 >COOK  
 >BLOND**  
 >
->####
->
 >**PRESS "RETURN" TO BEGIN PLAY**  
 
 ####
