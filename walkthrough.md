@@ -67,6 +67,19 @@
 
 ####
 
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+
+####
+
 **[&nbsp;FRONT YARD&nbsp;]**  
 **YOU ARE IN THE FRONT YARD OF A LARGE ABANDONED VICTORIAN HOUSE. STONE STEPS LEAD UP TO A WIDE PORCH.  
 --------------- ENTER COMMAND? <ins>LOOK WINDOW</ins>  
