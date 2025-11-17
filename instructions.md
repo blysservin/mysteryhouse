@@ -1,67 +1,67 @@
 
----
----
----
----
----
----
----
----
----
----
-  
-####
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-**[&nbsp;MYSTERY HOUSE&nbsp;]**
+####  
 
-####
+**[&nbsp;MYSTERY HOUSE&nbsp;]**  
 
----
----
----
----
----
----
----
----
----
----
+####  
 
-####
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-**[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;INSTRUCTIONS&nbsp;]](#instructions) [[&nbsp;WALKTHROUGH&nbsp;]](/walkthrough.md) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](/alternateendings.md) [[&nbsp;INVENTORY&nbsp;]](/inventory.md)**
+####  
 
-####
+**[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;INSTRUCTIONS&nbsp;]](#instructions) [[&nbsp;WALKTHROUGH&nbsp;]](/walkthrough.md) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](/alternateendings.md) [[&nbsp;INVENTORY&nbsp;]](/inventory.md)**  
 
----
----
----
----
----
----
----
----
----
----
+####  
 
-####
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-**<a name="instructions">[&nbsp;INSTRUCTIONS&nbsp;]</a>**
+####  
 
-####
+**<a name="instructions">[&nbsp;INSTRUCTIONS&nbsp;]</a>**  
 
----
----
----
----
----
----
----
----
----
----
+####  
 
-####
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+
+####  
 
 >**ADVENTURE IS ONE OF THE MOST FASCINATING AND CHALLENGING GAMES AVAILABLE FOR YOUR APPLE COMPUTER. WINNING IS QUITE A CHALLENGE IN A GAME WHERE IT MAY TAKE HOURS TO MOVE AND WEEKS TO SOLVE A PUZZLE. HI-RES ADVENTURE # 1 (*MYSTERY HOUSE*) TAKES PLACE IN AN OLD HOUSE WITH MANY ROOMS. AS YOU ENTER THE HOUSE, SEVEN OTHER PERSONS WILL BE IN THE LIVING ROOM. EVENTUALLY THEY ARE DISPERSED THROUGHOUT THE HOUSE AND YOU START FINDING THEM -- DEAD! YOU MUST FIND THE KILLER BEFORE HE (SHE?) ENDS UP FINDING YOU.**  
 > 
@@ -115,32 +115,32 @@
 >
 >**PRESS "RETURN" TO BEGIN PLAY**  
 
-####
+####  
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-####
+####  
 
-**[[&nbsp;PREVIOUS&nbsp;]](/introduction.md) [[&nbsp;NEXT&nbsp;]](/walkthrough.md)**
+**[[&nbsp;PREVIOUS&nbsp;]](/introduction.md) [[&nbsp;NEXT&nbsp;]](/walkthrough.md)**  
 
-####
+####  
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
