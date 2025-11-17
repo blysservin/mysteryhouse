@@ -1,67 +1,67 @@
 
----
----
----
----
----
----
----
----
----
----
-  
-####
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-**[&nbsp;MYSTERY HOUSE&nbsp;]**
+####  
 
-####
+**[&nbsp;MYSTERY HOUSE&nbsp;]**  
 
----
----
----
----
----
----
----
----
----
----
+####  
 
-####
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-**[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](#introduction) [[&nbsp;INSTRUCTIONS&nbsp;]](/instructions.md) [[&nbsp;WALKTHROUGH&nbsp;]](/walkthrough.md) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](/alternateendings.md) [[&nbsp;INVENTORY&nbsp;]](/inventory.md)**
+####  
 
-####
+**[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](#introduction) [[&nbsp;INSTRUCTIONS&nbsp;]](/instructions.md) [[&nbsp;WALKTHROUGH&nbsp;]](/walkthrough.md) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](/alternateendings.md) [[&nbsp;INVENTORY&nbsp;]](/inventory.md)**  
 
----
----
----
----
----
----
----
----
----
----
+####  
 
-####
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-**<a name="introduction">[&nbsp;INTRODUCTION&nbsp;]</a>**
+####  
 
-####
+**<a name="introduction">[&nbsp;INTRODUCTION&nbsp;]</a>**  
 
----
----
----
----
----
----
----
----
----
----
+####  
 
-####
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+
+####  
 
 >**THE PUBLIC DOMAIN EXCHANGE**  
 >
@@ -81,32 +81,32 @@
 >
 >**ENTER <ins>G</ins> FOR GAME OR <ins>I</ins> FOR INSTRUCTIONS**  
 
-####
+####  
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-####
+####  
 
-**[[&nbsp;PREVIOUS&nbsp;]](/readme.md) [[&nbsp;NEXT&nbsp;]](/instructions.md)**
+**[[&nbsp;PREVIOUS&nbsp;]](/readme.md) [[&nbsp;NEXT&nbsp;]](/instructions.md)**  
 
-####
+####  
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
