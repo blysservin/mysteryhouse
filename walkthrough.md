@@ -595,7 +595,7 @@ YOU HAVE FOUND THE JEWELS!
 
 **[&nbsp;PANTRY&nbsp;]**  
 **YOU ARE IN A SMALL PANTRY.  
---------------- ENTER COMMAND? <ins>EXIT HOLE</ins>**  
+--------------- ENTER COMMAND? <ins>ENTER HOLE</ins>**  
 
 ####  
 
