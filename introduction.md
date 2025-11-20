@@ -12,7 +12,7 @@
 
 ####  
 
-**[&nbsp;MYSTERY HOUSE&nbsp;]**  
+**<a name="mysteryhouse">[&nbsp;MYSTERY HOUSE&nbsp;]</a>**  
 
 ####  
 
