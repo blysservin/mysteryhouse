@@ -64,7 +64,7 @@
 ####  
 
 **[&nbsp;ALTERNATE ENDING # 1&nbsp;]**  
-***(START AFTER NOTE FOR <a name="alternateending1">[[&nbsp;ALTERNATE ENDING # 1&nbsp;]](/walkthrough.md#alternateending1))</a>  
+***(START AFTER NOTE FOR <a name="alternateendings1">[[&nbsp;ALTERNATE ENDING # 1&nbsp;]](/walkthrough.md#walkthrough1))</a>  
 --------------- ENTER COMMAND? <ins>LIGHT STOVE</ins>  
 THE STOVE EXPLODES. YOU ARE DEAD. WOULD YOU LIKE TO PLAY AGAIN?  
 --------------- ENTER COMMAND? <ins>YES</ins>  
