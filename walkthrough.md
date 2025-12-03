@@ -106,7 +106,7 @@ THE PEOPLE WERE EXPLAINED AT THE BEGINNING OF THE GAME.
 --------------- ENTER COMMAND? <ins>TAKE NOTE</ins>  
 --------------- ENTER COMMAND? <ins>READ NOTE</ins>**  
 
->**VALUABLE JEWELS ARE HIDDEN IN THIS HOUSE. FINDERS-KEEPERS.**  
+>**VALUABLE JEWELS ARE HIDDEN IN THIS HOUSE. FINDERS KEEPERS.**  
 
 **--------------- ENTER COMMAND? <ins>DROP NOTE</ins>  
 --------------- ENTER COMMAND? <ins>WEST</ins>**  
@@ -408,6 +408,8 @@ THERE IS A SKELETON KEY HERE.
 
 **[&nbsp;PANTRY&nbsp;]**  
 **YOU ARE IN A SMALL PANTRY.  
+--------------- ENTER COMMAND? <ins>TAKE JAR</ins>  
+IT DOES NOT REMOVE.  
 --------------- ENTER COMMAND? <ins>ENTER HOLE</ins>  
 YOU GO IN THE HOLE BUT CANNOT CONTINUE AND HAVE TO RETURN.  
 --------------- ENTER COMMAND? <ins>WALK STAIRS</ins>**  
@@ -564,8 +566,6 @@ THE BRICKS BREAK APART LEAVING A HUGE HOLE.
 
 **[&nbsp;PANTRY&nbsp;]**  
 **YOU ARE IN A SMALL PANTRY.  
---------------- ENTER COMMAND? <ins>TAKE JAR</ins>  
-IT DOES NOT REMOVE.  
 --------------- ENTER COMMAND? <ins>WALK STAIRS</ins>**  
 
 ####  
